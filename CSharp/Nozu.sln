@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nozu.Domain", "Nozu.Domain\Nozu.Domain.csproj", "{5A325DD6-870C-4108-A448-68159AE48AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nozu.Tests", "Nozu.Tests\Nozu.Tests.csproj", "{603BC39C-F491-4EFD-9562-7BB9B3229820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A325DD6-870C-4108-A448-68159AE48AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A325DD6-870C-4108-A448-68159AE48AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A325DD6-870C-4108-A448-68159AE48AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A325DD6-870C-4108-A448-68159AE48AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603BC39C-F491-4EFD-9562-7BB9B3229820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603BC39C-F491-4EFD-9562-7BB9B3229820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603BC39C-F491-4EFD-9562-7BB9B3229820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603BC39C-F491-4EFD-9562-7BB9B3229820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F33536E-2843-48FB-A32D-9A1C9F06719D}
+	EndGlobalSection
+EndGlobal
